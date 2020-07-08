@@ -1,0 +1,7 @@
+---
+- hosts: "{{ target }}"
+
+  tasks:
+  - name: "Hey I just met you, And this is crazy, But here's my address, So ping me maybe"
+    include_role:
+      name: ping_me_maybe
