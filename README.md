@@ -1,2 +1,3 @@
-# ansible_roles
-Some handy template for ansible projects
+# Ansible Template
+
+Some handy template for ansible project development
